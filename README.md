@@ -28,7 +28,7 @@
 
 - **Academic:**  [FarmAlytics](https://github.com/detiuaveiro/ies2526-group-project-ies2526_g304), [Network-Wide Docker Sidecar Monitor](https://github.com/MarcosCost/RS_Docker-Monitoring-System), [Multi-Threaded C Web Server](https://github.com/MarcosCost/Multi-threaded-Multi-process-webserver), [Linux Bash Recycle Bin CLI](https://github.com/MarcosCost/SO_Pratico1)
 
-- **[HyraxQL]([https://github.com/MarcosCost/repo](https://github.com/MarcosCost/HyraxQL))** — A Rust-based GUI/TUI database explorer that's engine-agnostic, exposing a single standardized command set across different database backends.
+- **[HyraxQL](https://github.com/MarcosCost/HyraxQL)** — A Rust-based GUI/TUI database explorer that's engine-agnostic, exposing a single standardized command set across different database backends.
 
 ---
 
